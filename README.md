@@ -1,3 +1,3 @@
 # IT115_Mid_Project  
-Clayton Smith
+Clayton Smith  
 Preferred Color Green
